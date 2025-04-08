@@ -2,36 +2,35 @@
 
 Welcome to my **100 Days of JavaScript Projects** challenge! 🚀
 
-In this repository, I'm committing to building **one JavaScript project every day for 100 days** to sharpen my frontend development skills, explore modern JavaScript practices, and build a robust project portfolio. Each project is created using **vanilla JavaScript** (unless specified) and showcases unique concepts, logic, or interactivity.
+This repository is a comprehensive collection of **100 unique JavaScript mini-projects** created over 100 days. Each project is crafted using **vanilla JavaScript**, **HTML5**, and **CSS3**, focusing on real-world use cases, interactive UI, and reusable logic. This repo is perfect for developers looking to strengthen their **frontend development** skills and build a **JavaScript portfolio**.
 
 ---
 
-## 📌 Goals
-- Master core JavaScript concepts
-- Build a strong portfolio of mini-projects
-- Improve problem-solving & coding speed
-- Practice consistency and discipline
+## 📈 Why This Challenge?
+- 🚀 Improve JavaScript skills with practical coding
+- 🎯 Build portfolio-ready projects
+- 🧠 Practice problem-solving and logical thinking
+- 🔁 Build consistency and discipline
 
 ---
 
-## 🗂️ Project List
+## 🗂️ JavaScript Projects List
 
-| Day | Project Name                 | Live Demo | Code Link |
-|-----|------------------------------|-----------|-----------|
-| 01  | JavaScript Quote Generator  | [Live](#) | [Code](#) |
-| 02  | Coming Soon...              | [Live](#) | [Code](#) |
-| ... | ...                          | ...       | ...       |
-| 100 | Coming Soon...              | [Live](#) | [Code](#) |
-
-> ✅ Each project will be added with its live preview and GitHub code link as soon as it's completed.
+| Day | Project Name                 | Live Demo | 
+|-----|------------------------------|-----------|
+| 01  | JavaScript Quote Generator  | [Live](https://javascript-quote-generator-mu.vercel.app/) | 
+| 02  | Coming Soon...              | [Live](#) |
+| ... | ...                          | ...       |
+| 100 | Coming Soon...              | [Live](#) |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 - HTML5
-- CSS3
-- JavaScript (ES6+)
-- [Optional]: APIs, localStorage, libraries (like GSAP, Chart.js, etc.)
+- CSS3 (Responsive Design)
+- JavaScript ES6+
+- LocalStorage & Fetch API
+- Optional: GSAP, and other JS libraries
 
 ---
 
@@ -49,41 +48,36 @@ In this repository, I'm committing to building **one JavaScript project every da
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
+## 🚀 How to View Projects Locally
+1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/100-days-javascript.git
+   git clone https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript/
    ```
-2. Open a specific project folder
-3. Open `index.html` in your browser or use Live Server in VS Code
+2. Navigate to a specific project folder:
+   ```bash
+   cd Your Folder Name
+   ```
+3. Open `index.html` in your browser or launch with Live Server in VS Code
 
 ---
 
-## 📸 Social Media Challenge
-Follow my journey on:
-- 📸 [Instagram](#)
-- 🐦 [Twitter](#)
-- 💼 [LinkedIn](#)
-
-I'll be posting daily updates, tips, and project insights.
+## 📢 Social Media & Content Sharing
+Follow and support the challenge on:
+- 📸 [Instagram](https://www.instagram.com/dynamic_pixels.in/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumar2043/)
+- 🌐 [Portfolio Website](https://react-portfolio-2025-two.vercel.app/)
 
 ---
 
 ## 🤝 Contributing
-This is a personal challenge, but feel free to fork the repo or drop issues/suggestions. Let’s grow together! 🙌
+This is a personal challenge but open to suggestions. Feel free to fork, star ⭐ this repo, or raise an issue if you find a bug or want to collaborate.
 
 ---
 
 ## 📃 License
-This repository is licensed under the **MIT License**.
+Licensed under the **MIT License** — use, share, and learn freely.
 
 ---
 
-## 🔥 Hashtags (for sharing on socials)
-```md
-#100DaysOfCode #JavaScript #WebDevelopment #FrontendDeveloper #JSProjects #VanillaJS #100DaysChallenge #CodeNewbie #DevCommunity #BuildInPublic #JavaScriptProjects #PortfolioProjects
-```
+Made with 💛 by [Priyanshu Kumar](https://www.linkedin.com/in/priyanshukumar2043/)
 
----
-
-Made with 💛 by [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu-portfolio/)
