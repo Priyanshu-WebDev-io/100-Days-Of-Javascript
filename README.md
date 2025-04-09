@@ -19,7 +19,7 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | Day | Project Name                 | Live Demo | 
 |-----|------------------------------|-----------|
 | 01  | JavaScript Quote Generator  | [Live](https://javascript-quote-generator-mu.vercel.app/) | 
-| 02  | Javascript Modal Window              | [Live](https://002-javascript-modal-window.vercel.app/) |
+| 02  | Coming Soon...              | [Live](#) |
 | ... | ...                          | ...       |
 | 100 | Coming Soon...              | [Live](#) |
 
