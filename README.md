@@ -24,6 +24,7 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 04  | Javascript Digital Clock          | [Live](https://004-javascript-digital-clock.vercel.app/) |
 | 04  | Javascript Digital Clock          | [Live](https://004-javascript-digital-clock.vercel.app/) |
 | 05  | Navigation Ui Animation          | [Live](https://navigation-ui-animation.vercel.app/) |
+| 05  | Javascript Picture In Picture          | [Live](https://006-javascript-picture-in-picture.vercel.app/) |
 | XX | COMING SOON                         | ...       |
 | ... | ...                          | ...       |
 | 100 | Coming Soon...              | [Live](#) |
