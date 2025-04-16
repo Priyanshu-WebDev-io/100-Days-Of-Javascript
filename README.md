@@ -27,6 +27,7 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 06  | Javascript Picture In Picture          | [Live](https://006-javascript-picture-in-picture.vercel.app/) |
 | 07  | Javascript Custom Countdown          | [Live](https://007-javascript-custom-countdown.vercel.app/) |
 | 08  | Javascript Analog Clock          | [Live](https://008-javascript-analog-clock.vercel.app/) |
+| 09  | Javascript Crypto Price App         | [Live](https://009-javascript-crypto-price-app.vercel.app/) |
 | XX | COMING SOON                         | ...       |
 | ... | ...                          | ...       |
 | 100 | Coming Soon...              | [Live](#) |
