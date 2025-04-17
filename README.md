@@ -28,7 +28,7 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 07  | Javascript Custom Countdown          | [Live](https://007-javascript-custom-countdown.vercel.app/) |
 | 08  | Javascript Analog Clock          | [Live](https://008-javascript-analog-clock.vercel.app/) |
 | 09  | Javascript Crypto Price App         | [Live](https://009-javascript-crypto-price-app.vercel.app/) |
-| 09  | Javascript Gradient Generator         | [Live](https://0010-javascript-gradient-generator.vercel.app/) |
+| 10  | Javascript Gradient Generator         | [Live](https://0010-javascript-gradient-generator.vercel.app/) |
 | XX | COMING SOON                         | [Live](#)       |
 | ... | ...                          | ...       |
 | 100 | Coming Soon...              | [Live](#) |
