@@ -29,9 +29,10 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 08  | Javascript Analog Clock          | [Live](https://008-javascript-analog-clock.vercel.app/) |
 | 09  | Javascript Crypto Price App         | [Live](https://009-javascript-crypto-price-app.vercel.app/) |
 | 10  | Javascript Gradient Generator         | [Live](https://0010-javascript-gradient-generator.vercel.app/) |
-| XX | COMING SOON                         | [Live](#)       |
+| Day 11 To 20 | Repo ↗️                         | [Live](https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript--Day-11-To-20)       |
+| Day XX To XX | Coming Soon                         | [Live](#)       |
 | ... | ...                          | ...       |
-| 100 | Coming Soon...              | [Live](#) |
+| Day 91 To 100 | Coming Soon                         | [Live](#)       |
 
 ---
 
