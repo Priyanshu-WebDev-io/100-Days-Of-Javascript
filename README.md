@@ -30,9 +30,9 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 09  | Javascript Crypto Price App         | [Live](https://009-javascript-crypto-price-app.vercel.app/) |
 | 10  | Javascript Gradient Generator         | [Live](https://0010-javascript-gradient-generator.vercel.app/) |
 | Day 11 To 20 | Repo ↗️                         | [Live](https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript--Day-11-To-20)       |
-| Day XX To XX | Coming Soon                         | [Live](#)       |
+| Day XX To XX | Coming Soon                         | [Visit](#)       |
 | ... | ...                          | ...       |
-| Day 91 To 100 | Coming Soon                         | [Live](#)       |
+| Day 91 To 100 | Coming Soon                         | [Visit](#)       |
 
 ---
 
